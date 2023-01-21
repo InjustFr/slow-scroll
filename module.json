@@ -1,7 +1,7 @@
 {
     "id": "slow-scroll",
-    "title": "Slow Scroll - High Res Scrolling Support",
-    "description": "A module that allows you to change the sensitivity of scrolling",
+    "title": "Slow Scroll",
+    "description": "A module that makes foundry work better with high res scrolling",
     "authors": [
         {
             "name": "Injust"
@@ -14,5 +14,17 @@
     },
     "scripts": [
         "scripts/slow-scroll.js"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "languages/en.json"
+        },
+        {
+            "lang": "fr",
+            "name": "Français",
+            "path": "languages/fr.json"
+        }
     ]
 }

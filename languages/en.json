@@ -1,0 +1,14 @@
+{
+    "SLOW-SCROLL": {
+        "settings": { 
+            "default-behaviour": {
+                "Name": "Use Foundry's default behaviour",
+                "Hint": "If you use aren't using high res scrolling or you like the very sensitive rotation of template previews, leave this checked"
+            },
+            "scroll-multiplier": {
+                "Name": "Template preview rotation slowness",
+                "Hint": "A higher value will rotate the template preview slower"
+            }
+        }
+    }
+}

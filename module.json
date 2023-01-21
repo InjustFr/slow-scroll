@@ -1,0 +1,18 @@
+{
+    "id": "slow-scroll",
+    "title": "Slow Scroll - High Res Scrolling Support",
+    "description": "A module that allows you to change the sensitivity of scrolling",
+    "authors": [
+        {
+            "name": "Injust"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    },
+    "scripts": [
+        "scripts/slow-scroll.js"
+    ]
+}
